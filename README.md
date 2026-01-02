@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello! Welcome to my profile page
 
-Hi, I'm Hakan 👋
+Hi, I'm Hakan 
 Computer Science student at Trinity College Dublin
 
 🔹 Interested in Software Development & Data
