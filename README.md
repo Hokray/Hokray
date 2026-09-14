@@ -6,7 +6,7 @@ Interested in software engineering, data engineering, and systems close to the m
 
 ## 📂 Projects
 
-[**Automated Equity Screener & Alerting Service**]((https://github.com/Hokray/Stocks-Analysis-Alert-System)) — Solo project. Screens equities against fixed quantitative criteria — weekly price movement, volume growth, trailing-twelve-month cash flow — and emails an alert when a company matches. Runs unattended on a GitHub Actions cron schedule, with a weekly self-check that verifies the screener is still evaluating correctly so silent failures surface. `Python` · `yfinance` · `GitHub Actions` · `pandas`
+[**Automated Equity Screener & Alerting Service**](https://github.com/Hokray/Stocks-Analysis-Alert-System) — Solo project. Screens equities against fixed quantitative criteria — weekly price movement, volume growth, trailing-twelve-month cash flow — and emails an alert when a company matches. Runs unattended on a GitHub Actions cron schedule, with a weekly self-check that verifies the screener is still evaluating correctly so silent failures surface. Backtested against historical data to validate the criteria. `Python` · `yfinance` · `GitHub Actions` · `pandas`
 
 [**AI Productivity App**](https://github.com/Hokray/) — Industry collaboration with Quantexa, Backend & AI team. REST APIs in Python over Supabase, Stripe integration for a carbon-offset credit system, and sustainability metrics (tokens per call, carbon footprint) surfaced through a dedicated endpoint. Structure developed through proposals pitched to and approved by Quantexa engineers. `Python` · `Supabase` · `Stripe API` · `REST`
 
@@ -14,7 +14,7 @@ Interested in software engineering, data engineering, and systems close to the m
 
 [**Weather & Outdoor Activity Recommender**](https://github.com/Hokray/Weather_new) — NASA Space Apps Challenge 2025, frontend lead. Pairs weather forecasts with outdoor activity recommendations across 13 activities, each mapped to the conditions that matter for it. Live at [nasa-new-alpha.vercel.app](https://nasa-new-alpha.vercel.app). `JavaScript` · `Python` · `Flask` · `Meteomatics API` · `Google Maps API`
 
-[**Commercial Flights Data Mining**](https://github.com/Hokray/) — Data visualisation of commercial flight data. `Java` · `Processing`
+[**Commercial Flights Data Mining**](https://github.com/Hokray/Commercial-Flights-Data-Mining) — Data visualisation of commercial flight data. `Java` · `Processing`
 
 ## 🛠️ Tech Stack
 
